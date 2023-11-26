@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/airbnb-clone/static/css/main.f4046208.css",
+    "main.js": "/airbnb-clone/static/js/main.ed2ab860.js",
+    "static/media/group77.png": "/airbnb-clone/static/media/group77.072626b8e8ff69932f03.png",
+    "static/media/katie-zaferes.png": "/airbnb-clone/static/media/katie-zaferes.5d736ac3dc01f817ff4d.png",
+    "static/media/mountain-bike.png": "/airbnb-clone/static/media/mountain-bike.230cebf2f397ce4f74f1.png",
+    "static/media/wedding-photography.png": "/airbnb-clone/static/media/wedding-photography.9978c5b012896f7188c1.png",
+    "static/media/Moses_San_Pietro_in_Vincoli.jpg": "/airbnb-clone/static/media/Moses_San_Pietro_in_Vincoli.7d26bc68e53b76d336e7.jpg",
+    "index.html": "/airbnb-clone/index.html",
+    "main.f4046208.css.map": "/airbnb-clone/static/css/main.f4046208.css.map",
+    "main.ed2ab860.js.map": "/airbnb-clone/static/js/main.ed2ab860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4046208.css",
+    "static/js/main.ed2ab860.js"
+  ]
+}
