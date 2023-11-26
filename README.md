@@ -1,6 +1,8 @@
 # Airbnb Clone
 
-I'ts a project from freeCodeCamp.org React.js course.
+It's a project from freeCodeCamp.org React.js course.
+
+You can see it live at https://whoisbroken.github.io/airbnb-clone/
 
 ## Installation
 Clone this repository, and run:
